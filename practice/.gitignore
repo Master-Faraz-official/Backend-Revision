@@ -1,0 +1,47 @@
+# Node.js dependencies
+/node_modules/
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Environment variables
+.env
+.env.*
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript build
+*.tsbuildinfo
+
+# NPM package manager lock files
+package-lock.json
+yarn.lock
+
+# VS Code settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# npm package distribution
+/dist/
+
+# Coverage directory used by testing tools
+/coverage/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+# Jest test coverage directory
+/coverage/
+
+# Serverless Framework
+.serverless/
+
+# SQLite database files
+*.sqlite
+*.sqlite3
